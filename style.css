@@ -1,0 +1,66 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    color:#000 ;
+    font-size: 0.8rem;
+}
+.header{
+    background-color: #f7f8f8;
+    padding: 20px;
+    text-transform: uppercase;
+    padding-left: 80px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.top-bar-items img{
+    /* width: 40px; */
+    padding: 2px;
+    /* filter: grayscale(100%); */
+
+}
+.top-bar-items{
+    padding: 10px;
+    display: inline-block;
+}
+/* .header-bottom{
+    padding: -20px;
+} */
+.header-bottom img{
+    filter: grayscale(100%);
+}
+.selectInput{
+    padding: 10px;
+    width: 200px;
+}
+.search{
+    width: 40vw;
+}
+.fa-search{
+    color: #fff;
+    border-radius: 5px;
+    background-color: #002f34;
+    padding: 14px;
+}
+.fa-shopping-cart{
+    border-radius: 50px;
+    padding: 12px;
+    margin-left: 60px;
+}
+.sell-button{
+    background-color: #fff;
+    border-radius: 20px;
+    padding: 15px;
+    border-bottom: 3px solid #3a77ff;
+    border-top: 3px solid #3a77ff;
+    border-left: 3px solid #ffce32;
+    border-right: 3px solid #23e5db;
+    margin-left: 60px;
+}
+.top-bar-icons{
+    padding: 20px;
+    font-size: 20px;
+}
